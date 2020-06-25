@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Morgan Galvin
+	email = morgan@ludwigthepig.com
+# Please adapt and uncomment the following lines:
+#	name = Morgan Galvin
+#	email = morgan.galvin@engineering-mbp.stoneagetools.local
